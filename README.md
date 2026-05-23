@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring AI Engineer and BCA student skilled in Python, Machine Learning, Data Analytics, and AI-driven project development, with a strong passion for building real-world intelligent solutions.<br>
+BCA student @ JECRC | Building ML systems in Python — churn prediction, data analytics, FastAPI | Open to internships.<br>
 
 
 # 💻 Tech Stack:
