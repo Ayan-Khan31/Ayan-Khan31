@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA student @ JECRC | Building ML systems in Python — churn prediction, data analytics, FastAPI | Open to internships.<br>
+BCA student @ JECRC | Building ML systems in Python - churn prediction, data analytics, FastAPI | Open to internships.<br>
 
 
 # 💻 Tech Stack:
